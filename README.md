@@ -1,2 +1,2 @@
 # E_Datos
-Creacion de una lista ligada con 10 elementos
+Trabajos y tareas de la materia de Estructura de Datos
