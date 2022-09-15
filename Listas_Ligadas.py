@@ -1,9 +1,12 @@
 
-class Node:
-    def __init__(self, valor = None, next = None):
-        self.valor = valor
-        self.next = next
+class Nodo:
+    dato = None
+    siguiente = None
     
-  class LinkedList:
+ def __init__(self, dato):
+        self.dato = dato
+        self.siguiente = None
+    
+  class Lista_ligada: 
     def __init__(self):
-        self.Head = None
+        self.head = None
